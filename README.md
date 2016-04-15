@@ -1,2 +1,2 @@
 # Hello-World
-Cutting GitHub teetch
+Cutting GitHub teeth
